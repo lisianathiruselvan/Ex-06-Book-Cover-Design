@@ -10,7 +10,7 @@ Clone the GitHub repository and create a Django admin interface.
 Write HTML and CSS Code for designing book cover page and execute them.
 
 ## Code:
-
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -132,6 +132,9 @@ Write HTML and CSS Code for designing book cover page and execute them.
         </div>
     </body>
 </html>
-
+```
 ## OUTPUT:
+![webcover](https://user-images.githubusercontent.com/119389971/214858057-25106d0d-5609-409c-9c91-9248bf3b44b7.jpeg)
+
+## RESULT
 The program is executed successfully
